@@ -1,0 +1,31 @@
+@media screen and (max-width: 770px) {
+  .navbar {
+    width: 90%;
+  }
+  .logo h2 a {
+    font-size: 20px;
+  }
+
+  #menu_bar {
+    display: grid;
+    color: #fff;
+    position: absolute;
+    right: 5%;
+    top: 20%;
+    border: 1px solid #fff;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+
+  .nav_links {
+    flex-direction: column;
+    position: absolute;
+    background: #24292d;
+    width: 100%;
+    left: 0;
+  }
+}
