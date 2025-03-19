@@ -1,14 +1,12 @@
 <h1> Basic Portfolio Website </h1>
 
-HTML5 (Structuring),
-CSS3 (Design and styling),
-Flexbox / Grid (Page layout),
+Basic HTML & CSS Project  
 
 <h2>screen gif </h2>
 
-Navbar and responsive design,
-Buttons and hover toggle,
-Footer and page content
+<h3>Below is a screenshot of the project and a GIF showing how it works: </h3>
+Header and Navbar
+Button Styles with CSS
 
 
 ![](ekran.gif)
