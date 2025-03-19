@@ -1,12 +1,13 @@
-<h1> Basic Portfolio Website </h1>
+# Basic Portfolio Website 
 
 Basic HTML & CSS Project  
 
-<h2>screen gif </h2>
+# screen gif 
 
-<h3>Below is a screenshot of the project and a GIF showing how it works: </h3>
-Header and Navbar
-Button Styles with CSS
+# Below is a screenshot of the project and a GIF showing how it works:
+
+- Header and Navbar
+- Button Styles with CSS
 
 
-![](ekran.gif)
+![screen](ekran.gif)
